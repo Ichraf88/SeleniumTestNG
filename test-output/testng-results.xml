@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite CRM" duration-ms="48321" started-at="2020-06-14T15:27:47Z" finished-at="2020-06-14T15:28:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48321" started-at="2020-06-14T15:27:47Z" finished-at="2020-06-14T15:28:35Z">
+      <class name="com.crm.test.LoginPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="setup" is-config="true" duration-ms="9439" started-at="2020-06-14T17:27:47Z" finished-at="2020-06-14T17:27:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titletest(java.lang.reflect.Method)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="titletest" duration-ms="1492" started-at="2020-06-14T17:27:56Z" finished-at="2020-06-14T17:27:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.test.LoginPageTest.titletest(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+        <test-method status="PASS" signature="down()[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="down" is-config="true" duration-ms="1173" started-at="2020-06-14T17:27:58Z" finished-at="2020-06-14T17:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="setup" is-config="true" duration-ms="8193" started-at="2020-06-14T17:27:59Z" finished-at="2020-06-14T17:28:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkUrl(java.lang.reflect.Method)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="checkUrl" duration-ms="1621" started-at="2020-06-14T17:28:07Z" finished-at="2020-06-14T17:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.test.LoginPageTest.checkUrl(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUrl -->
+        <test-method status="PASS" signature="down()[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="down" is-config="true" duration-ms="683" started-at="2020-06-14T17:28:09Z" finished-at="2020-06-14T17:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="setup" is-config="true" duration-ms="7788" started-at="2020-06-14T17:28:09Z" finished-at="2020-06-14T17:28:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestLogo(java.lang.reflect.Method)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="TestLogo" duration-ms="1689" started-at="2020-06-14T17:28:17Z" finished-at="2020-06-14T17:28:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.test.LoginPageTest.TestLogo(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogo -->
+        <test-method status="PASS" signature="down()[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="down" is-config="true" duration-ms="648" started-at="2020-06-14T17:28:19Z" finished-at="2020-06-14T17:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="setup" is-config="true" duration-ms="7781" started-at="2020-06-14T17:28:19Z" finished-at="2020-06-14T17:28:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login(java.lang.reflect.Method)[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="Login" duration-ms="6657" started-at="2020-06-14T17:28:27Z" finished-at="2020-06-14T17:28:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.test.LoginPageTest.Login(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="down()[pri:0, instance:com.crm.test.LoginPageTest@7ee955a8]" name="down" is-config="true" duration-ms="1123" started-at="2020-06-14T17:28:34Z" finished-at="2020-06-14T17:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+      </class> <!-- com.crm.test.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite CRM -->
+</testng-results>

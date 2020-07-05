@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite CRM]" parallel="none">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test(failed)" parallel="none">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.crm.test.ContactPageTest">
+        <methods>
+          <include name="Login"/>
+          <include name="addContact"/>
+        </methods>
+      </class> <!-- com.crm.test.ContactPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite CRM] -->
